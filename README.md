@@ -109,7 +109,7 @@ Write HTML and CSS Code for designing back cover page and execute them.
                 HTML and CSS Combined with Django Architecture
             </div>
             <div class="mypic">
-                <img src="/static/image/balajicoat.jpg" width="130" height="145" alt="">
+                <img src="/C:\Users\SEC\OneDrive\Pictures\dp pic.jpg" width="130" height="145" alt="">
             </div>
             <div class="id">
                 <hr style="color:royalblue;">
@@ -129,7 +129,8 @@ Write HTML and CSS Code for designing back cover page and execute them.
 
 
 ## Output:
-![Output](./coverpageoutput.png)
+![coverpageoutput](https://github.com/jevan-a/cover-page-design/assets/134593017/c5288f96-a343-4d46-b345-32af3d55e346)
+
 
 
 ## Result:
