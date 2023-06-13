@@ -129,7 +129,7 @@ Write HTML and CSS Code for designing back cover page and execute them.
 ~~~
 
 ## Output:
-
+![output](https://github.com/jevan-a/cover-page-design/assets/134593017/665b080f-b79b-462f-9e06-1f80a0d09a8e)
 
 ## HTML VALIDATOR:
 ![validator](https://github.com/jevan-a/cover-page-design/assets/134593017/8127b9d8-ee80-4319-96a2-be3b31e402df)
