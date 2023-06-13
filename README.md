@@ -10,7 +10,7 @@ Clone th GitHub repository and create a Django admin interface.
 ### Step 2:
 Write HTML and CSS Code for designing back cover page and execute them.
 ## Code:
-
+~~~
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -126,11 +126,13 @@ Write HTML and CSS Code for designing back cover page and execute them.
         </div>
     </body>
 </html>
-
+~~~
 
 ## Output:
-![coverpageoutput](https://github.com/jevan-a/cover-page-design/assets/134593017/c5288f96-a343-4d46-b345-32af3d55e346)
 
+
+## HTML VALIDATOR:
+![validator](https://github.com/jevan-a/cover-page-design/assets/134593017/8127b9d8-ee80-4319-96a2-be3b31e402df)
 
 
 ## Result:
